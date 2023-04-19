@@ -87,7 +87,9 @@ public class Passengers {
 			case 4:
 				bookingHistory();
 				break;
-			case 5 : deleteAccount(sc);
+			case 5:
+				deleteAccount(sc);
+				break;
 			case 0:
 				CustomerLogin.passengerId = 0;
 				return;
@@ -182,6 +184,7 @@ public class Passengers {
 			e.printStackTrace();
 		}
 	}
+
 	public static void deleteAccount(Scanner sc) {
 		sc.nextLine();
 		System.out.println("Enter previous password");
