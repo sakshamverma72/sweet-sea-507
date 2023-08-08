@@ -1,6 +1,6 @@
 BUS RESERVATION SYSTEM
 
-It is a online appliication to book and reserve a bus ticket.
+It is an online appliication to book and reserve a bus ticket.
 
 
 Main Features
